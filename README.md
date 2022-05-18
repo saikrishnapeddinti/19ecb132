@@ -12,3 +12,5 @@
 [lineardatastructures.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/_linear_data_structures.c)
 
 [doublelinkedlist.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/doublelinkedlists.c)
+
+[febn.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/febn.c)

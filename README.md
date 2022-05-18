@@ -8,3 +8,5 @@
 [addingdeletingmodifyinganelementlinkedlist.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/ADDING%2CDELETING%2CMODIFYING%2CANELEMENTINSINGLELINKEDLIST.C)
 
 [addingdeletingmodifyinganelementarray.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/ADDING%2CDELETING%2CMODIFYINGANELEMENTINARRAY.c)
+
+[lineardatastructures.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/_linear_data_structures.c)

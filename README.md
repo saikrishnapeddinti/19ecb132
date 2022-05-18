@@ -24,3 +24,5 @@
 [quotient.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/quotient.c)
 
 [reverse.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/reverse.c)
+
+[swap.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/swap.c)

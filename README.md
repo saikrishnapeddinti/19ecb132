@@ -18,3 +18,5 @@
 [keyword.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/keyword%20.c)
 
 [linkedlist.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/linked_list.c)
+
+[pointer.c](https://github.com/saikrishnapeddinti/19ecb132/blob/main/pointer.c)

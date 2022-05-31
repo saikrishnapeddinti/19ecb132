@@ -16,3 +16,9 @@ int main()
     
     return 0;
 }
+
+
+Enter two integers to add
+23
+22
+Sum of entered numbers = 45

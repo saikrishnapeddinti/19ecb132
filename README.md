@@ -1,1 +1,4 @@
 # 19ecb132
+[lettercount.c](lettercount.c)  
+[ADDINGDELETING1.C](ADDINGDELETING1.C)  
+[ADDINGDELETING2.c](ADDINGDELETING2.c)

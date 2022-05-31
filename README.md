@@ -5,7 +5,7 @@
 [lineardatastructures.c](lineardatastructures.c)  
 [doublelinkedlists.c](doublelinkedlists.c)  
 [febn.c](febn.c)  
-[inkedlist.c](inkedlist.c)  
+[linkedlist.c](linkedlist.c)  
 [pointer.c](pointer.c)  
 [quotient.c](quotient.c)  
 [reverse.c](reverse.c)  

@@ -7,3 +7,7 @@ main()
 	printf("\n r = %d",r);
 }
 
+
+
+a=2,b=3
+ r = 2~

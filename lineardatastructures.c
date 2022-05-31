@@ -132,3 +132,72 @@ int main(void) {
     
   }
 }
+
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+7
+~/19ecb132-2$ gcc febn.c
+~/19ecb132-2$ ./a.out
+Enter the number of terms: 10
+Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ~/19ecb132-2$ gcc insertionsort.c
+~/19ecb132-2$ ./a.out
+
+Elements after sorting are ...
+1   2   3   4   5   6   7   8   9   10  ~/19ecb132-2$ gcc lettercount.c
+lettercount.c:31:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ at end of input
+ g
+ ^
+~/19ecb132-2$ gcc lettercount.c
+~/19ecb132-2$ ./a.out
+Enter a sentence: ram is good boy
+
+The number of letters in the given sentence are : 3
+~/19ecb132-2$ gcc lineardatastructures.c
+~/19ecb132-2$ ./a.out
+
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
+
+ Provide an option: 3
+
+***Creation of Stack using Linked List***
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
+
+ Provide an option: 1
+
+***Creation of Stack using Array***
+ 1. Push     2. Pop      3. Display      4. Return to previous menu 
+ Choose an option: 2
+
+Stack underflow
+ 1. Push     2. Pop      3. Display      4. Return to previous menu 
+ Choose an option: 4
+
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
+
+ Provide an option: 5

@@ -11,3 +11,6 @@
 [reverse.c](reverse.c)  
 [swap.c](swap.c)  
 [insertionsort.c](insertionsort.c)  
+[relationalopr.c](relationalopr.c)  
+[logicalopr.c](logicalopr.c)  
+[BITWISE.C](BITWISE.C)

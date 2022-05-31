@@ -28,3 +28,6 @@ The number of letters in the given sentence are : 5
 
 
   
+Enter a sentence: ram is good boy
+
+The number of letters in the given sentence are : 3
